@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+mask_model.pkl
+.env
